@@ -1,0 +1,14 @@
+# Generated banking data
+accounts.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE/editor files
+.vscode/
+.idea/
